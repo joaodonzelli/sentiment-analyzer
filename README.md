@@ -223,13 +223,3 @@ Disciplina: Inteligência Artificial - 2025
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📞 Contato
-
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu.email@exemplo.com
-
----
-
-⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!
-
-**#InteligenciaArtificial #MachineLearning #PLN #ProjetoIntegrador**
