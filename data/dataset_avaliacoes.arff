@@ -1,0 +1,47 @@
+@relation avaliacoes_apps_delivery
+
+@attribute texto string
+@attribute sentimento {positivo,negativo,neutro}
+
+@data
+'Aplicativo muito bom, entrega rápida e comida sempre quentinha. Recomendo!',positivo
+'Péssimo atendimento, pedido chegou frio e com 2 horas de atraso',negativo
+'O app funciona bem mas os preços estão muito altos ultimamente',neutro
+'Adorei a experiência, entregador super educado e comida deliciosa',positivo
+'Nunca mais uso, cancelaram meu pedido 3 vezes seguidas sem aviso',negativo
+'Interface bonita mas as vezes trava na hora de finalizar o pagamento',neutro
+'Melhor app de delivery que já usei, não tenho do que reclamar',positivo
+'Horrível, cobram taxa de entrega absurda e ainda demoram',negativo
+'App ok, nada de especial mas cumpre o que promete',neutro
+'Excelente! Promoções boas e entrega sempre no prazo',positivo
+'Decepcionante, comida veio errada e o suporte não resolve',negativo
+'Razoável, tem dias que funciona bem e outros que dá problema',neutro
+'Super satisfeito com o serviço, sempre uso e nunca tive problema',positivo
+'Não recomendo, entregador grosseiro e pedido incompleto',negativo
+'O aplicativo é estável mas poderia ter mais opções de restaurantes',neutro
+'Maravilhoso, salvou meu jantar várias vezes, adoro',positivo
+'Experiência terrível, paguei e não recebi o pedido',negativo
+'Normal, atende bem mas não é nada extraordinário',neutro
+'Perfeito, interface intuitiva e entregas sempre rápidas',positivo
+'Muito ruim, app cheio de bugs e demora pra carregar',negativo
+'Aplicativo mediano, tem prós e contras',neutro
+'Nota 10! Sempre bem embalado e quentinho',positivo
+'Péssima experiência, não resolvem o problema do cliente',negativo
+'Funciona mas poderia melhorar o sistema de rastreamento',neutro
+'Simplesmente perfeito, melhor custo benefício',positivo
+'Revoltante, promocao falsa e taxa escondida',negativo
+'Tranquilo de usar mas nada que impressione',neutro
+'Fantástico, entrega super rápida e comida impecável',positivo
+'Não funciona direito, sempre com erro no pagamento',negativo
+'Mediano, cumpre o básico mas sem diferenciais',neutro
+'Encantada com o serviço, super indico para todos',positivo
+'Lamentável, comida fria e atendimento péssimo',negativo
+'Ok pro dia a dia, nada demais',neutro
+'Excelente app, muito prático e confiável',positivo
+'Horrível experiência, pedido nunca chegou e não devolveram o dinheiro',negativo
+'Nem bom nem ruim, depende do restaurante',neutro
+'Amei demais, facilita muito minha vida',positivo
+'Pior app que já usei, lento e confuso',negativo
+'Serve pro básico mas tem concorrentes melhores',neutro
+'Incrível, funciona perfeitamente sempre',positivo
+'Desastroso, entrega sempre atrasada',negativo
