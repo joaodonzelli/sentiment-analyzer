@@ -1,0 +1,37 @@
+{
+  "name": "sentiment-analyzer",
+  "version": "1.0.0",
+  "description": "Sistema de análise de sentimentos em português usando IA - Projeto Integrador",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "keywords": [
+    "inteligencia-artificial",
+    "machine-learning",
+    "pln",
+    "nlp",
+    "sentiment-analysis",
+    "naive-bayes",
+    "weka",
+    "portugues"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  }
+}
